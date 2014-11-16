@@ -40,10 +40,12 @@
   left: 30%;
   width: 40%;
 }
-
+.overlayer .show img {
+  width: 90%;
+  margin: 5%;
+}
 .overlayer .show p {
   text-align: center;
-  padding-top: 20px;
-  color: #53c5ea;
+  color: pink;
   font-size: 30px;
 }
