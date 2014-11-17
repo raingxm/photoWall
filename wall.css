@@ -1,5 +1,8 @@
+body {
+  background: url(images/content-background.jpg) #000000 left 60px repeat;
+}
 .header {
-  background-color: green;
+  background: url(images/header-background.jpg) #000000 left top repeat;
   padding: 30px;
   text-align: center;
   font-size: 20px;
@@ -46,6 +49,7 @@
 }
 .overlayer .show p {
   text-align: center;
-  color: pink;
+  background: url(images/describe-background.jpg) #000000 5% top repeat;
+  color: white;
   font-size: 30px;
 }
